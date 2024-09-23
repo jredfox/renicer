@@ -1,2 +1,2 @@
 # renicer
- Sets Process Priority without sudo
+ Sets Any Process Priority without sudo
